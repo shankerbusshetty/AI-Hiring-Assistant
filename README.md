@@ -79,3 +79,20 @@ The prompts used to gather information and generate technical questions were car
 
 ### **3.Challenge**: Generating dynamic questions based on user input.
    - **Solution**: Hugging Face's **Transformers** library is leveraged to generate context-aware questions based on the provided tech stack. This helps tailor the questions to each candidate’s experience and skill set.
+
+
+## Future Improvements
+
+- Integrate a database for permanent storage of candidate data and responses.
+- Add scoring and feedback mechanisms based on candidate responses.
+- Develop an admin dashboard for interviewers to track candidate performance.
+- Enable PDF exports for candidate reports.
+- Expand language support to cater to a global audience.
+
+---
+
+## Author
+
+Shanker Busshetty|https://github.com/shankerbusshetty| Email: shankerbussetty@gmail.com
+
+---
