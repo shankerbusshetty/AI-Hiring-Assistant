@@ -1,3 +1,4 @@
+
 # TalentScout Hiring Assistant Chatbot 
 
 ## Project Overview
@@ -19,11 +20,7 @@ To run the **TalentScout Hiring Assistant Chatbot** locally, follow these steps:
 1. **Clone the repository** to your local machine.
    - Download or clone the project repository from GitHub to your local environment.
 
-<<<<<<< HEAD
 2. **Set up a virtual environment** (optional but recommended):
-=======
-2. **Set up a virtual environment**:
->>>>>>> 85d4199fcfc2df80698b652c533c71c571c8e051
    - Create a new virtual environment for isolating dependencies.
 
 3. **Install dependencies**:
@@ -84,10 +81,6 @@ The prompts used to gather information and generate technical questions were car
 ### **3.Challenge**: Generating dynamic questions based on user input.
    - **Solution**: Hugging Face's **Transformers** library is leveraged to generate context-aware questions based on the provided tech stack. This helps tailor the questions to each candidate’s experience and skill set.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 85d4199fcfc2df80698b652c533c71c571c8e051
 ## Future Improvements
 
 - Integrate a database for permanent storage of candidate data and responses.
@@ -100,10 +93,7 @@ The prompts used to gather information and generate technical questions were car
 
 ## Author
 
-<<<<<<< HEAD
 Shanker Busshetty|https://github.com/shankerbusshetty| Email: shankerbussetty@gmail.com
 
----
-=======
-Shanker Busshetty | https://github.com/shankerbusshetty | Email: shankerbussetty@gmail.com
->>>>>>> 85d4199fcfc2df80698b652c533c71c571c8e051
+
+
