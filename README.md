@@ -19,7 +19,7 @@ To run the **TalentScout Hiring Assistant Chatbot** locally, follow these steps:
 1. **Clone the repository** to your local machine.
    - Download or clone the project repository from GitHub to your local environment.
 
-2. **Set up a virtual environment** (optional but recommended):
+2. **Set up a virtual environment**:
    - Create a new virtual environment for isolating dependencies.
 
 3. **Install dependencies**:
