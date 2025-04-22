@@ -38,7 +38,10 @@ To run the **TalentScout Hiring Assistant Chatbot** locally, follow these steps:
 Once the application is running, the user will be prompted to enter basic information such as:
 - **Full Name**
 - **Email Address**
+- **Phone Number**
 - **Years of Experience**
+- **Desired Position**
+- **Current Location**
 - **Preferred Tech Stack** (e.g., Python, JavaScript, etc.)
 
 After collecting the information, the chatbot will generate **5 technical questions** based on the selected tech stack. The user can respond to each question in real-time, making the interview process interactive and dynamic.
@@ -93,7 +96,7 @@ The prompts used to gather information and generate technical questions were car
 
 ## Author
 
-Shanker Busshetty|https://github.com/shankerbusshetty| Email: shankerbussetty@gmail.com
+Shanker Busshetty | https://github.com/shankerbusshetty | Email: shankerbussetty@gmail.com
 
 
 
